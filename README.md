@@ -1,4 +1,4 @@
-🚀 Sigma Web Development & MERN Journey
+Web Development & MERN Journey
 
 Topics Covered:
 - HTML
