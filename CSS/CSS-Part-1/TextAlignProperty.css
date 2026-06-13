@@ -1,0 +1,10 @@
+h2,h1{
+    text-align: center;
+    border: solid;
+    border-color: antiquewhite;
+}
+
+p{
+    text-align: justify;
+    width: 70%;
+}
