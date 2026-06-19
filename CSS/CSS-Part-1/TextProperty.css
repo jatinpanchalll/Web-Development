@@ -2,9 +2,13 @@ h2,h1{
     text-align: center;
     border: solid;
     border-color: antiquewhite;
+    text-decoration: underline;
+    letter-spacing: 15px;
 }
 
 p{
     text-align: justify;
     width: 70%;
+    font-weight: bold;
+    line-height: normal;
 }
