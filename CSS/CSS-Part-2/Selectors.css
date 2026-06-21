@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h3{
+    color: purple;
+}
+
+#login {
+    color: brown;
+    background-color: antiquewhite;
+}
+
+.follow{
+    text-decoration: none;
+    background-color: black;
+}
