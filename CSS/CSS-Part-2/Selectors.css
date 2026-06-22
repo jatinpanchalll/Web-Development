@@ -1,17 +1,45 @@
+/* UNIVERSAL SELECTOR */
 *{
     font-family: 'Courier New', Courier, monospace;
 }
 
+/* ELEMENT SELECTOR */
 h1,h3{
     color: purple;
 }
 
+/* ID SELECTOR */
 #login {
     color: brown;
     background-color: antiquewhite;
 }
 
+/* CLASS SELECTOR */
 .follow{
-    text-decoration: none;
     background-color: black;
+}
+
+/* DESCEDENT SELECTOR */
+p a{
+    text-decoration: none;
+    color: brown;
+}
+
+/* ADJACENT SIBLING SELECTOR */
+p + h3{
+    text-decoration: underline;
+}
+
+/* CHILD COMBINATOR */
+div > input{
+   background-color: aquamarine;
+}
+
+/* ATTRIBUTE SELECTOR */
+input[type="text"]{
+   color: coral;
+}
+
+input[type]{
+    background-color: ghostwhite;
 }
