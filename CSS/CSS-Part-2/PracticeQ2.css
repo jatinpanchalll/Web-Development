@@ -1,0 +1,5 @@
+/* Set The Colour Of Pragraphs inside divs with the id="myId" to green */
+
+div[id="myId"] {
+    color: green;
+}

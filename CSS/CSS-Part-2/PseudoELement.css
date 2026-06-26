@@ -1,0 +1,14 @@
+/* FIRST LETTER */
+h1::first-letter{
+    color: green;
+}
+
+/* FIRST LINE */
+p::first-line{
+    color: blue;
+}
+
+/* SELECTION */
+p::selection{
+    background-color: rgb(207, 207, 163);
+}

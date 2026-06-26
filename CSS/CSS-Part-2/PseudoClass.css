@@ -1,0 +1,21 @@
+/* Hover */
+button:hover{
+    background-color: black;
+}
+
+/* ACTIVE */
+button:active{
+    color: aquamarine;
+    background-color: blue;
+}
+
+/* CHECKED */
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+
+/* NTH OF TYPE */
+.post:nth-of-type(2n){
+    background-color: burlywood;
+}
