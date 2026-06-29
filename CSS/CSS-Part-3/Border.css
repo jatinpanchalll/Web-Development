@@ -1,0 +1,33 @@
+*,div{
+    width: 500px;
+    margin: 20px auto;
+}
+
+div{
+    
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+h1{
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: pink;
+}
+
+div{
+    border: 5px solid blue;
+}
+
+div{
+    border-left: 5px dotted violet;
+    border-right-color: aqua;
+    border-bottom-color: black;
+    border-top-color: aquamarine;
+}
+
+div{
+    border-radius: 15px;
+}
