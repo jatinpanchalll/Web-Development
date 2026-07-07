@@ -1,0 +1,33 @@
+section{
+    margin-top: 100px;
+}
+
+
+div{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+div:nth-of-type(2n){
+    background-color: azure;
+}
+
+div:nth-of-type(3n){
+    background-color: beige;
+}
+
+#one{
+    transform: rotate(45deg);
+}
+
+#two{
+    transform: scale(0.5);
+}
+
+#three:hover{
+    transform: scale(0.5);
+}
