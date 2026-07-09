@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+section{
+    height: 250px;
+    border: 2px solid black;
+    margin: 30px;
+    padding: 20px;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.first{
+    background-color: aquamarine;
+}
+
+.second{
+    background-color: blanchedalmond;
+}
+
+/* STATIC */
+#static{
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+
+/* RELATIVE */
+#relative{
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+
+/* Parent for Absolute */
+.parent{
+    position: relative;
+}
+
+/* ABSOLUTE */
+#absolute{
+    position: absolute;
+    top: 20px;
+    left: 180px;
+}
+
+/* FIXED */
+#fixed{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}

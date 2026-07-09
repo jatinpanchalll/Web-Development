@@ -1,0 +1,10 @@
+div{
+    height: 200px;
+    width: 400px;
+    background-color:aquamarine;
+    margin: 10px auto;
+    background-image: url(ash-amplifies-NQ6Lh81BTRs-unsplash.jpg);
+    background-size: contain;
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
