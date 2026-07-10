@@ -1,0 +1,13 @@
+.container{
+    height: 300px;
+    width: 600px;
+    background-color: black;
+    display: grid;
+}
+
+.items{
+    width: 100px;
+    height: 30px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+}
