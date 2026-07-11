@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+
+    animation-name: fontanimation, coloranimation;
+    animation-duration: 2s, 2s;
+    animation-timing-function: ease-in, ease-in;
+    animation-delay: 0s, 0s;
+    animation-iteration-count: 3, 3;
+}
+
+@keyframes fontanimation {
+    from{font-size: 20px;}
+    to{font-size: 40px;}
+}
+
+@keyframes coloranimation {
+    0%{color: black;}
+    50%{color: white;}
+    100%{color: green}
+}
