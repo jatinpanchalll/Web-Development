@@ -3,6 +3,7 @@ Web Development & MERN Journey
 Topics Covered:
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - React
 - Node.js
