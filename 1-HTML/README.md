@@ -21,7 +21,7 @@ It is used to:
 
 HTML works together with:
 
-- CSS → Styling
+- CSS → Styling.
 - JavaScript → Functionality
 
 ---
